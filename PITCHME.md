@@ -28,17 +28,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 #### Engage your Audience
 @snapend
 
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
-@ulend
-@snapend
-
-@snap[east span-100]
-<iframe src="https://lichess.org/study/embed/TqzqNNWA/pjmk3xEU#0" frameborder=0></iframe>
+@snap[span-100]
+<iframe width="100%" src="https://lichess.org/study/embed/TqzqNNWA/pjmk3xEU#0" frameborder=0></iframe>
 @snapend
 
 @snap[south span-100 bg-black fragment]
