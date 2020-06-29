@@ -38,7 +38,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/conference.png)
+<iframe src="https://lichess.org/tv/frame?theme=wood&bg=light" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
 @snapend
 
 @snap[south span-100 bg-black fragment]
