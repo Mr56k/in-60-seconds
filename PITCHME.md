@@ -1,3 +1,8 @@
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css" />
+
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+            
 # Let's Get **Started**
 
 ---
@@ -29,7 +34,12 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 @snap[span-100]
-<iframe width="100%" src="https://lichess.org/study/embed/TqzqNNWA/pjmk3xEU#0" frameborder=0></iframe>
+      <div class="cbdiagram"
+           data-size="400"
+           data-pos="wKg1,Qf6,Nf5,Ra1,c1,Pb2,b3,f3,g4,h3/bKg8,Qb7,Ne6,Ba8,Rc7,d7,Pf7,h7"
+           data-legend="White to Move - Mate in Three."
+           data-title="Zugzwang!">
+      </div>
 @snapend
 
 @snap[south span-100 bg-black fragment]
